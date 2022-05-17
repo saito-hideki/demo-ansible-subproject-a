@@ -1,0 +1,3 @@
+[submodule "subproject-aa"]
+	path = subproject-aa
+	url = https://github.com/saito-hideki/demo-ansible-subproject-aa.git
